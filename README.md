@@ -1,1 +1,1 @@
-# Dotnet_EF
+# DotNet practise focused on Entity Framework Core
